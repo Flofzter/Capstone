@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(45, 47, 68);
+    
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 6px;
+}
+a {
+    color: rgb(196, 249, 255);
+}
+
+.NavBar {
+    background-color: rgb(111, 50, 161);
+    padding: 14px 16px;
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 111%;
+    text-align: left;
+}    
+
+.CenterContents {
+    margin: 0%;
+    position: absolute;
+    right: 50%;
+    bottom: 50%;
+    transform: translate(50%, 50%);
+
+    text-align: center;
+}
+
+.SlightMargin {
+    margin: 3%;
+}
