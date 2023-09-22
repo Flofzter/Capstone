@@ -1,0 +1,14 @@
+.DimBackgroundFill {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.DimBackgroundFillArt {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/Capstone/assets/img/ActivitiesBackgrounds/DrawingSplitVIiew.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
